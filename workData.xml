@@ -1,0 +1,57 @@
+<workList>
+    <place>
+        <placeName>Hemingway's</placeName>
+        <spot>
+            <spotName>Yläkerta</spotName>
+            <User>0</User>
+            <State>1</State>
+        </spot>
+        <spot>
+            <spotName>Alakerta</spotName>
+            <User>0</User>
+            <State>1</State>
+        </spot>
+    </place>
+    <place>
+        <placeName>Itäraja</placeName>
+        <spot>
+            <spotName>Levähdyspaikka</spotName>
+            <User>Kimmo</User>
+            <State>2</State>
+        </spot>
+    </place>
+    <place>
+        <placeName>Kauppisen pikkujoulubaari</placeName>
+        <spot>
+            <spotName>Saniteettitilat</spotName>
+            <User>Pekka</User>
+            <State>3</State>
+        </spot>
+    </place>
+    <place>
+        <placeName>Kauppisen koti</placeName>
+        <spot>
+            <spotName>Makuuhuone</spotName>
+            <User>Kimmo</User>
+            <State>4</State>
+        </spot>
+    </place>
+    <place>
+        <placeName>Presidentinlinna</placeName>
+        <spot>
+            <spotName>Eteinen</spotName>
+            <User>Pena Kauppinen</User>
+            <State>4</State>
+        </spot>
+        <spot>
+            <spotName>Aula</spotName>
+            <User>Kimmo</User>
+            <State>4</State>
+        </spot>
+        <spot>
+            <spotName>Toimistotilat</spotName>
+            <User>Pekka</User>
+            <State>4</State>
+        </spot>
+    </place>
+</workList>

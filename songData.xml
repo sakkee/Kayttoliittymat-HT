@@ -1,0 +1,20 @@
+﻿<songList>
+    <song UID="1">
+        <songname>havusaurus.mp3</songname>
+    </song>
+    <song UID="2">
+        <songname>isankertomus.mp3</songname>
+    </song>
+    <song UID="3">
+        <songname>kaljaa.mp3</songname>
+    </song>
+    <song UID="4">
+        <songname>saunaperkele.mp3</songname>
+    </song>
+    <song UID="5">
+        <songname>tofii.mp3</songname>
+    </song>
+    <song UID="6">
+        <songname>tyomies.mp3</songname>
+    </song>
+</songList>
